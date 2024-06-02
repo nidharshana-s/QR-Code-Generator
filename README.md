@@ -4,4 +4,7 @@ Steps:
 1. Clone or download the repository.
 2. Open in editor like vs code
 3. Open terminal and make sure node and npm is installed.
-4. Run using node index.js cmd in terminal 
+4. npm init
+5. npm i qr-image inquirer
+6. Make sure to add "type:module" in package.json file 
+8. Run using node index.js cmd in terminal 
